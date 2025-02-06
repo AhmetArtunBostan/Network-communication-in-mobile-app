@@ -1,0 +1,61 @@
+@startuml
+class User {
+  -userId: Long
+  -username: String
+  -email: String
+  -password: String
+  -createdAt: DateTime
+  +register()
+  +login()
+  +updateProfile()
+}
+
+class Account {
+  -accountId: Long
+  -userId: Long
+  -balance: Map<String, Double>
+  -createdAt: DateTime
+  +getBalance()
+  +addFunds()
+  +withdrawFunds()
+}
+
+class Transaction {
+  -transactionId: Long
+  -userId: Long
+  -type: TransactionType
+  -fromCurrency: String
+  -toCurrency: String
+  -amount: Double
+  -rate: Double
+  -timestamp: DateTime
+  +execute()
+  +cancel()
+}
+
+class ExchangeRate {
+  -currencyCode: String
+  -rate: Double
+  -timestamp: DateTime
+  +getCurrentRate()
+  +getHistoricalRate()
+}
+
+class CurrencyService {
+  +fetchCurrentRates()
+  +fetchHistoricalRates()
+  +executeExchange()
+}
+
+User "1" -- "*" Account
+User "1" -- "*" Transaction
+Transaction "*" -- "1" ExchangeRate
+CurrencyService -- ExchangeRate
+
+enum TransactionType {
+  BUY
+  SELL
+  DEPOSIT
+  WITHDRAW
+}
+@enduml

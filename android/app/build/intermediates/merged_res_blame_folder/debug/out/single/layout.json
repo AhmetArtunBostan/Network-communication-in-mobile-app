@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.exchange.currency.app-mergeDebugResources-43:/layout/item_exchange_rate.xml",
+        "source": "com.exchange.currency.app-main-46:/layout/item_exchange_rate.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.exchange.currency.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-mergeDebugResources-43:/layout/fragment_exchange_rates.xml",
+        "source": "com.exchange.currency.app-main-46:/layout/fragment_exchange_rates.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-mergeDebugResources-43:/layout/fragment_exchange.xml",
+        "source": "com.exchange.currency.app-main-46:/layout/fragment_exchange.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-mergeDebugResources-43:/layout/fragment_home.xml",
+        "source": "com.exchange.currency.app-main-46:/layout/fragment_home.xml"
+    }
+]

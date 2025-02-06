@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/layout_fragment_exchange.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/layout/fragment_exchange.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/navigation_nav_graph.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/drawable_ic_currency.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/drawable/ic_currency.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/layout_fragment_exchange_rates.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/layout/fragment_exchange_rates.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/layout_fragment_home.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/drawable_ic_profile.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/drawable_ic_home.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/layout_item_exchange_rate.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/layout/item_exchange_rate.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/drawable_ic_transactions.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/drawable/ic_transactions.xml"
+    },
+    {
+        "merged": "com.exchange.currency.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.exchange.currency.app-main-46:/drawable/ic_launcher_foreground.xml"
+    }
+]

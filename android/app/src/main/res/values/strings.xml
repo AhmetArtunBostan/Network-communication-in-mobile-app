@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="exchange_rates">Exchange Rates</string>
+    <string name="transactions">Transactions</string>
+    <string name="profile">Profile</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="deposit">Deposit</string>
+    <string name="withdraw">Withdraw</string>
+</resources>

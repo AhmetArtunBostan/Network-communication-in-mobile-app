@@ -1,0 +1,11 @@
+com\exchange\config\SQLiteDialect.class
+com\exchange\model\Account.class
+com\exchange\CurrencyExchangeApplication.class
+com\exchange\model\ExchangeRate.class
+com\exchange\model\Transaction.class
+com\exchange\model\Transaction$TransactionType.class
+com\exchange\service\NBPService.class
+com\exchange\model\User.class
+com\exchange\config\SQLiteIdentityColumnSupport.class
+com\exchange\service\NBPService$NBPResponse.class
+com\exchange\service\NBPService$Rate.class
